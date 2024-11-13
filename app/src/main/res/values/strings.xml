@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+</resources>
